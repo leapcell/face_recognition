@@ -1,0 +1,6 @@
+flask
+markdown
+gunicorn
+leapcell
+python-dotenv
+face_recognition
